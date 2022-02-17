@@ -1,16 +1,15 @@
-Anime API 
+# Jikan API :fire::office:
 
-Dependencies & Libraries :toolbox:
+## Dependencies & Libraries :toolbox:
 
-1. Axios (https://yarnpkg.com/package/axios)
+1. [Eslint Config Rokket Labs](https://github.com/rokket-labs/eslint-config-rokket-labs)
+2. Axios (https://yarnpkg.com/package/axios)
 
 
+## Developer :boy: Alan Bustos
 
-
-Developer :boy:
-
-1. [Github](https://github.com/alanbustosm9)
-2. [Linkedin](https://www.linkedin.com/in/alan-bustos-mora-80564a219/)
+1. [Github: @alanbustosm9](https://github.com/alanbustosm9)
+2. [Linkedin: @alan-bustos-mora-80564a219](https://www.linkedin.com/in/alan-bustos-mora-80564a219/)
 
 
 

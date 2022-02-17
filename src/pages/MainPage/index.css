@@ -1,0 +1,7 @@
+.card-anime{
+    display: flex;
+}
+
+.card-body{
+    flex-direction: column;
+}
