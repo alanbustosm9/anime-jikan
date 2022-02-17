@@ -11,10 +11,9 @@ export const useAnimes = () => {
       
     loadAllAnimes()
         .then( animes => {
-            setIsLoading(false)
-            setAnimes( animes )
+          setAnimes( animes )
+          setIsLoading(false)
         })
-
   }, [])
 
 

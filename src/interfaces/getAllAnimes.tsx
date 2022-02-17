@@ -147,7 +147,7 @@ export interface Anime {
     // title_english:   null | string;
     // title_japanese:  string;
     // episodes:        number | null;
-    // score:           number;
+    score:           number;
     // rank:            number;
     // popularity:      number;
     synopsis:        string;

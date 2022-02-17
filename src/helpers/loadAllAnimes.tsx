@@ -18,7 +18,8 @@ const AnimeAllList = ( animeList: Datum[] ): Anime[] => {
             title: anime.title,
             synopsis: anime.synopsis,
             background: anime.background,
-            images: anime.images
+            images: anime.images,
+            score: anime.score,
         }
     })
 
