@@ -9,7 +9,7 @@
 ## Developer :boy: Alan Bustos
 
 1. [Github: @alanbustosm9](https://github.com/alanbustosm9)
-2. [Linkedin: @alanbustosmora9](https://www.linkedin.com/in/alan-bustos-mora-80564a219/)
+2. [Linkedin: @alanbustosmora9](https://www.linkedin.com/in/alanbustosmora9//)
 
 
 
